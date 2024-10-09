@@ -3,7 +3,7 @@ Hey, I'm Hika.
 
 Current hobby: Music
 
-<a href="https://osu.ppy.sh/users/36526121">osu</a>
+[osu](https://osu.ppy.sh/users/36526121)
 
-<a href="https://hikayoni.carrd.co">carrd</a>
+[carrd](https://hikayoni.carrd.co)
 
