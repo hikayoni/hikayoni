@@ -1,4 +1,1 @@
-# links
-[osu](https://osu.ppy.sh/users/36526121)
-[bento](https://bento.me/hkyn)
-
+random dude who makes random shit
